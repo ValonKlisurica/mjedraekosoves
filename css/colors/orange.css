@@ -1,4 +1,4 @@
-/* default color: #fe4614  */
+/* default color: #ef1e41  */
 .bg-color,
 section.bg-color,
 section.call-to-action,
@@ -45,7 +45,6 @@ section.call-to-action,
 .de_tab.tab_style_2 .de_nav li.active span,
 .de_tab.tab_steps.style-2 .de_nav li.active span,
 .feature-box-small-icon.style-2 .number.bg-color,
-a.btn-custom,.btn-custom,
 span.overlay,
 .owl-custom-nav .btn-next:before,
 .owl-custom-nav .btn-prev:before,
@@ -61,7 +60,7 @@ span.overlay,
 a.btn-fullwidth,
 .de_testi.opt-3 blockquote:before
 {
-	background-color:#fe4614 ;
+	background-color:#ef1e41 ;
 }
 
 .feature-box i,
@@ -144,7 +143,7 @@ h2.hs1 span,
 .de_tab.tab_style_4 .de_nav
 {
 
-	border-color:#fe4614 ;
+	border-color:#ef1e41 ;
 }
 
 .box-fx .inner,
@@ -161,37 +160,37 @@ h2.hs1 span,
 .text-light .separator span:after ,
 .form-underline input[type=text]:focus, .form-underline textarea:focus, .form-underline input[type=email]:focus, .form-underline select:focus
 {
-	border-bottom-color:#fe4614 ;
+	border-bottom-color:#ef1e41 ;
 }
 
 .arrow-down,
 .preloader1{
-	border-top-color:#fe4614 ;
+	border-top-color:#ef1e41 ;
 }
 
 .callbacks_nav {
-	background-color:#fe4614 ;
+	background-color:#ef1e41 ;
 }
 
 
 .de_tab .de_nav li span {
-border-top: 3px solid #fe4614 ;
+border-top: 3px solid #ef1e41 ;
 }
 
 .feature-box-big-icon i:after {
-border-color: #fe4614  transparent; /*same colour as the lower of the bubble's gradient*/
+border-color: #ef1e41  transparent; /*same colour as the lower of the bubble's gradient*/
 }
 
 .de_review li.active img{
-	border:solid 4px #fe4614 ;
+	border:solid 4px #ef1e41 ;
 }
 
 .de_tab.tab_style_4 .de_nav li{
-border-right-color:#fe4614 ;
+border-right-color:#ef1e41 ;
 }
 
 blockquote{
-border-left-color:#fe4614;
+border-left-color:#ef1e41;
 }
 
 

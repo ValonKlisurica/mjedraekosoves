@@ -49,7 +49,7 @@
 }
 .text-light .countdown-amount,
 .text-light .countdown-period{
-	color: rgb(254, 70, 20);
+	color: #71a457;
 }
 .countdown-period {
     display: block;
